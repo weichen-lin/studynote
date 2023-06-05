@@ -242,3 +242,4 @@ proxy.FooBar
 > 1. https://blog.fundebug.com/2019/07/27/javascript-es6-how-to-use-proxy/
 > 2. https://blog.techbridge.cc/2018/05/27/js-proxy-reflect/
 > 3. https://blog.techbridge.cc/2018/05/27/js-proxy-reflect/
+> 4. https://javascript.info/proxy
